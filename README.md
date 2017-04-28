@@ -1,6 +1,6 @@
-Calories Management Project 
+Java Enterprise Online Project 
 ===============================
 
-Java Enterprise project using most populat java technologies:
+Java Enterprise project with most popular java technologies:
 Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery + plugins.
 
