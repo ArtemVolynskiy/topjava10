@@ -7,7 +7,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - [Вступительное занятие](https://github.com/JavaOPs/topjava)
 - [Описание и план проекта](https://github.com/JavaOPs/topjava/blob/master/description.md)
 - [Wiki](https://github.com/JavaOPs/topjava/wiki)
-- [Wiki Git](https://github.com/JavaOPs/topjava/wiki/Git)daw
+- [Wiki Git](https://github.com/JavaOPs/topjava/wiki/Git)
 - [Wiki IDEA](https://github.com/JavaOPs/topjava/wiki/IDEA)
 - [Демо разрабатываемого приложения](http://topjava.herokuapp.com/)
 
@@ -18,8 +18,8 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Разбор домашнего задания вступительного занятия (вместе с Optional)
 - Обзор используемых в проекте технологий. Интеграция ПО
 - Maven
-- WAR. Веб-контейнер Tomcat. Сервлетыd
-- Логированиеd
+- WAR. Веб-контейнер Tomcat. Сервлеты
+- Логирование
 - Уровни и зависимости логгирования. JMX
 - Домашнее задание 1-го занятия (HW1 + Optional)
 
