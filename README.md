@@ -19,7 +19,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Обзор используемых в проекте технологий. Интеграция ПО
 - Maven
 - WAR. Веб-контейнер Tomcat. Сервлеты
-- Логирование
+- Логированиеd
 - Уровни и зависимости логгирования. JMX
 - Домашнее задание 1-го занятия (HW1 + Optional)
 
