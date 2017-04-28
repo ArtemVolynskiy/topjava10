@@ -7,7 +7,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - [Вступительное занятие](https://github.com/JavaOPs/topjava)
 - [Описание и план проекта](https://github.com/JavaOPs/topjava/blob/master/description.md)
 - [Wiki](https://github.com/JavaOPs/topjava/wiki)
-- [Wiki Git](https://github.com/JavaOPs/topjava/wiki/Git)
+- [Wiki Git](https://github.com/JavaOPs/topjava/wiki/Git)daw
 - [Wiki IDEA](https://github.com/JavaOPs/topjava/wiki/IDEA)
 - [Демо разрабатываемого приложения](http://topjava.herokuapp.com/)
 
